@@ -11,6 +11,7 @@ public class Scoring {
 		else {
 			System.out.println("Congratulation");
 		}
+		
 		//System.out.println(stu1);
 		stu1.printscore();
 
